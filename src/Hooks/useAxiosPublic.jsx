@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create a single Axios instance
 const axiosPublic = axios.create({
-  baseURL: "https://portfolio-z-server.vercel.app",
+  baseURL: "https://portfolioz-server.onrender.com",
   headers: {
     "Content-Type": "application/json", // Ensure JSON content-type for POST requests
   },

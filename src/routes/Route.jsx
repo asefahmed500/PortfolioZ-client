@@ -96,7 +96,7 @@ export const router = createBrowserRouter([
         path: "updateproject/:id",
         element: <UpdateProject />,
         loader: async ({ params }) => {
-          const response = await fetch(`https://portfolio-z-server.vercel.app/projects/${params.id}`);
+          const response = await fetch(`https://portfolioz-server.onrender.com/projects/${params.id}`);
           if (!response.ok) {
             throw new Error("Failed to fetch project");
           }
@@ -117,7 +117,7 @@ export const router = createBrowserRouter([
         path: "updateskill/:id",
         element: <UpdateSkill />,
         loader: async ({ params }) => {
-          const response = await fetch(`https://portfolio-z-server.vercel.app/skills/${params.id}`);
+          const response = await fetch(`https://portfolioz-server.onrender.com/skills/${params.id}`);
           if (!response.ok) {
             throw new Error("Failed to fetch skills");
           }
@@ -139,7 +139,7 @@ export const router = createBrowserRouter([
         element: <UpdateTestimonial />,
         loader: async ({ params }) => {
           try {
-            const response = await fetch(`https://portfolio-z-server.vercel.app/testimonials/${params.id}`);
+            const response = await fetch(`https://portfolioz-server.onrender.com/testimonials/${params.id}`);
             if (!response.ok) {
               throw new Error("Failed to fetch testimonial data");
             }
@@ -171,7 +171,7 @@ export const router = createBrowserRouter([
             throw new Error("Invalid Blog ID");
           }
           try {
-            const response = await fetch(`https://portfolio-z-server.vercel.app/blogs/${params.id}`);
+            const response = await fetch(`https://portfolioz-server.onrender.com/blogs/${params.id}`);
             if (!response.ok) {
               throw new Error("Failed to fetch Blog data");
             }
