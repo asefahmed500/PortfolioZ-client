@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Skill 1",
+      "level": "Expert",
+      "image": "https://example.com/images/javascript.png"
+    },
+    {
+      "id": 2,
+      "name": "Skill 2",
+      "level": "Intermediate",
+      "image": "https://example.com/images/react.png"
+    },
+    {
+      "id": 3,
+      "name": "Skill 3",
+      "level": "Intermediate",
+      "image": "https://example.com/images/nodejs.png"
+    },
+    {
+      "id": 4,
+      "name": "Skill 4",
+      "level": "Expert",
+      "image": "https://example.com/images/python.png"
+    },
+    {
+      "id": 5,
+      "name": "Skill 5 ",
+      "level": "Beginner",
+      "image": "https://example.com/images/data_analysis.png"
+    },
+    {
+      "id": 6,
+      "name": "Skill 6 ",
+      "level": "Beginner",
+      "image": "https://example.com/images/data_analysis.png"
+    }
+  ]
+  

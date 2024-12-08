@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Portfolio Website",
+      "description": "A personal portfolio website to showcase projects, skills, and contact information.",
+      "image": "https://example.com/images/portfolio.png",
+      "live_link": "https://example.com/portfolio"
+    },
+    {
+      "id": 2,
+      "name": "E-commerce Store",
+      "description": "A fully functional e-commerce platform with payment integration and product management.",
+      "image": "https://example.com/images/ecommerce.png",
+      "live_link": "https://example.com/ecommerce"
+    },
+    {
+      "id": 3,
+      "name": "Social Media App",
+      "description": "A social media application that allows users to share posts, follow others, and send messages in real-time.",
+      "image": "https://example.com/images/socialmedia.png",
+      "live_link": "https://example.com/socialmedia"
+    },
+    {
+      "id": 4,
+      "name": "Task Management Tool",
+      "description": "A task management tool to help teams collaborate and track tasks with real-time updates and notifications.",
+      "image": "https://example.com/images/taskmanager.png",
+      "live_link": "https://example.com/taskmanager"
+    }
+  ]
+  

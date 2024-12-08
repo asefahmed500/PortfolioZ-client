@@ -1,0 +1,26 @@
+{
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "role": "Software Engineer at TechCorp",
+        "testimonial": "Working with this professional was a fantastic experience. They delivered high-quality work on time and were extremely responsive to feedback.",
+        "image": "https://example.com/images/john_doe.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "role": "Project Manager at Innovate Inc.",
+        "testimonial": "The attention to detail and creativity were impressive. I would highly recommend their services to anyone looking for top-notch development.",
+        "image": "https://example.com/images/jane_smith.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Samuel Green",
+        "role": "CEO at StartupHub",
+        "testimonial": "This individual was instrumental in the success of our project. Their expertise in both frontend and backend development helped us launch ahead of schedule.",
+        "image": "https://example.com/images/samuel_green.jpg"
+      }
+    ]
+  }
+  

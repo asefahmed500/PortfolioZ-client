@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Building a Personal Portfolio with MERN Stack",
+    "author": "Alice Johnson",
+    "date": "2024-10-05",
+    "image": "https://example.com/images/mern_portfolio.jpg",
+    "excerpt": "Learn how to create a personal portfolio website using the MERN stack, showcasing your skills and projects.",
+    "content": "In this blog post, we will go step-by-step to build a responsive portfolio website using MongoDB, Express.js, React.js, and Node.js. We'll cover user authentication, project display, and much more."
+  },
+  {
+    "id": 2,
+    "title": "Best Practices for Designing Portfolio Websites",
+    "author": "John Smith",
+    "date": "2024-09-20",
+    "image": "https://example.com/images/portfolio_design.jpg",
+    "excerpt": "Explore the best practices for designing an engaging and effective portfolio website that stands out.",
+    "content": "A great portfolio website not only showcases your work but also tells your story. This article provides tips on layout, color schemes, and content organization to enhance user experience."
+  },
+  {
+    "id": 3,
+    "title": "How to Showcase Your Projects Effectively",
+    "author": "Jane Doe",
+    "date": "2024-08-15",
+    "image": "https://example.com/images/showcase_projects.jpg",
+    "excerpt": "Tips and techniques to present your projects in a way that grabs the attention of potential employers or clients.",
+    "content": "Effective project presentation is key to impressing viewers. This post discusses how to write compelling project descriptions, use visuals effectively, and create a narrative around your work."
+  },
+  {
+    "id": 4,
+    "title": "Integrating Social Media into Your Portfolio",
+    "author": "Mark Thompson",
+    "date": "2024-07-10",
+    "image": "https://example.com/images/social_media_portfolio.jpg",
+    "excerpt": "Learn how to link your social media accounts to your portfolio for better visibility and networking.",
+    "content": "Integrating social media into your portfolio can significantly boost your visibility. This blog post covers how to strategically link your accounts and showcase your professional presence online."
+  },
+  {
+    "id": 5,
+    "title": "Creating an SEO-Friendly Portfolio Website",
+    "author": "Lisa Brown",
+    "date": "2024-06-01",
+    "image": "https://example.com/images/seo_portfolio.jpg",
+    "excerpt": "Discover how to optimize your portfolio website for search engines to attract more visitors.",
+    "content": "SEO is crucial for your portfolio's visibility. In this article, we will discuss best practices for on-page SEO, including keyword research, meta tags, and optimizing images."
+  }
+]
